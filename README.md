@@ -1,4 +1,4 @@
-             # MASTER TIMETABLE 
+ # MASTER TIMETABLE 
 
 This project contains the master timetable for 2024/2025 academic year created using HTML and CSS.
 
@@ -9,12 +9,14 @@ This project contains the master timetable for 2024/2025 academic year created u
 - `mastertimetable_preview.png` -- Timetable preview
 
 ## Live Preview
-View the timetable online: 
+View the timetable online:
+[] 
 
 
 
 ## Screenshot
-![A preview of the 2024/2025 academic timetable](master timetable_preview.png)
+![A preview of the 2024/2025 academic timetable]
+[]
 ## How to Use
 - Open `index.html` in any web browser to view locally.
 - Or visit the link above to view online.

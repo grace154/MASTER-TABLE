@@ -36,13 +36,13 @@ th{
 table th, table td {
     width: 50px; 
 }
-.times-slot{
-        background-color: #d4edda; 
+th{
+        background-color: lightgrey; 
         color: black;
         transition: background-color 0.3s ease-in-out;
         width:50%;
         }
-.lunch-break {
+.strong {
     font-weight: bold; 
     background-color: #fff; 
     text-align: center; 
@@ -126,8 +126,7 @@ ol {
   
   li {
     margin-right: 30px;
-    padding:0;
-    width: 50px;;
+    
   }
 
 
