@@ -10,11 +10,11 @@ This project contains the master timetable for 2024/2025 academic year created u
 
 ## Live Preview
 View the timetable online: 
-[https://grace154.github.io/Timetable-2024-2025/]
+
 
 
 ## Screenshot
-![A preview of the 2024/2025 academic timetable][https://grace154.github.io/Timetable-2024-2025/#screenshot]
+![A preview of the 2024/2025 academic timetable](master timetable_preview.png)
 ## How to Use
 - Open `index.html` in any web browser to view locally.
 - Or visit the link above to view online.
